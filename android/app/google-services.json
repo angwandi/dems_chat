@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320426831162",
+    "firebase_url": "https://flash-chat-dems.firebaseio.com",
+    "project_id": "flash-chat-dems",
+    "storage_bucket": "flash-chat-dems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320426831162:android:d117f347886ac74846b403",
+        "android_client_info": {
+          "package_name": "apps.dems.demschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320426831162-93fdjg5ie9pvajsnmkoojojpmckb2i6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyDp7Nt4yceezBdrWBzuzRvOrowo05Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320426831162-93fdjg5ie9pvajsnmkoojojpmckb2i6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
